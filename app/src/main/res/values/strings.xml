@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kalkulator BMI</string>
+    <string name="berat_badan">Berat Badan (KG)</string>
+    <string name="tinggi_badan">Tinggi Badan (CM)</string>
+    <string name="hitung">Hitung</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+</resources>
